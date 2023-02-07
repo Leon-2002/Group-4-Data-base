@@ -1,4 +1,2 @@
-This is just a trial. 
-1sdcsjkdcjskdncjkSDncksd
-askdlcnjkasldncjksanjkcsd
+This is a Dynamic database using sqlite3 in Python. 
   
